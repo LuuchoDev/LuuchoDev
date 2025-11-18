@@ -1,6 +1,7 @@
 ### Hola 👋, soy Lucho
 
 🎓 Estudiante de Programación en la **UTN** (Universidad Tecnológica Nacional).
+
 🚀 Apasionado por el Backend.
 
 **🛠 Tech Stack:**
